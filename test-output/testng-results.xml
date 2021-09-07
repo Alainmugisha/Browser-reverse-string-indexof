@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3569" started-at="2021-07-26T08:41:19 CDT" finished-at="2021-07-26T08:41:22 CDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3569" started-at="2021-07-26T08:41:19 CDT" finished-at="2021-07-26T08:41:22 CDT">
+      <class name="browser.PlaywithBrowsers">
+        <test-method status="PASS" signature="chrombrowers()[pri:0, instance:browser.PlaywithBrowsers@2df32bf7]" name="chrombrowers" duration-ms="3519" started-at="2021-07-26T08:41:19 CDT" finished-at="2021-07-26T08:41:22 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chrombrowers -->
+      </class> <!-- browser.PlaywithBrowsers -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
